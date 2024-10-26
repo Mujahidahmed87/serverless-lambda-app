@@ -1,2 +1,2 @@
 # serverless-lambda-app
-a terraform module to deploy a server python application using aws lambda
+a terraform module to deploy a serverless python application using aws lambda
